@@ -1,1 +1,1 @@
-# Pr-sentation-Pattern-Startegy
+# Pr-sentation-Pattern-Strategy
